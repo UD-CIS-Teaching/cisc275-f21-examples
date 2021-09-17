@@ -10,3 +10,10 @@ I created an example *basic* portfolio. I wouldn't say it demonstrates too much,
 I created an example site for the 010 section: https://github.com/acbart/my-275-scratch-site-010
 
 I created an example site for the 011 section: https://github.com/acbart/my-275-scratch-site-011
+
+## Week 3
+
+I have started a webapp in React and TypeScript, it will be for a TA Training Game I use:
+
+* https://github.com/UD-CISC275-F21/ta-trainer-010
+* https://github.com/UD-CISC275-F21/ta-trainer-011
